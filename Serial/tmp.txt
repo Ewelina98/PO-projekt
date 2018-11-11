@@ -1,0 +1,16 @@
+Tytul:
+ok
+Gatunek:
+fgfggh 
+Ocena:
+8
+Rok:
+2000
+Miesiac:
+6
+Dzien:
+15
+Godzina:
+9
+Minuta:
+9
